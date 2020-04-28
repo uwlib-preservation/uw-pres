@@ -18,6 +18,7 @@ All access files should strive to be the truest representation of the intended p
 * Preservation File
 * Mezzanine File
 * Access File
+* Picture(s) of original item
 * MD5 Checksums for all files
 
 ### Post-Migration Quality Control
