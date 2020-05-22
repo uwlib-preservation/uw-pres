@@ -1,6 +1,8 @@
 # UW Libraries Media Reformatting Preferred File Naming Conventions
 
-Preservation audio files created by reformatting projects should adhere to the following naming convention:
+For reformatted materials, UW Libraries prefers file names that are human readable and self descriptive. These names should always provide a clear association between the digital item and its physical source object.
+
+Preservation files created by reformatting projects should adhere to the following naming convention:
 
 `[MARC Code for collecting institution]_[collection #-collection name]_[item number]_[side/part]`
 
