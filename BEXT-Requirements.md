@@ -28,7 +28,7 @@ MD5|MD5 Hash generated from PCM portion of file|6f5902ac237024bdd0c176cb93063dc4
 ### Detailed Requirements
 #### Description
 Contains necessary information to associate external metadata as well as physical item to digital proxy. This takes the form of:
-`Collection # (OCLC): [OCLC Number], Collection # (UW): [UW Collection #], Item # (UW) [Jacobs Acc. Number], Original File Name: [Original File Name]` 
+`Collection # (OCLC): [OCLC Number], Collection # (UW): [UW Collection #], Item # (UW) [Most Accurate extant #], Original File Name: [Original File Name]` 
 
 Collection OCLC Numbers (if present) can be found by searching for the collection record in the [UW Libraries' main catalog](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/search?vid=UW&tab=default_tab).
 
