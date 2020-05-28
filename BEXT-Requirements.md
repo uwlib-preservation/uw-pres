@@ -16,7 +16,7 @@
 
 Field|Requirements|Example
 ---|---|---
-Description|[See details](#description)|[See details](#description
+Description|[See details](#description)|[See details](#description)
 Originator|ISIL [MARC code](https://www.loc.gov/marc/organizations/org-search.php) for managing organization|US-wau
 OriginatorReference|Original file name (minus extension). If greater than 32 characters use “See description for identifiers”|wauar_1693-001-jacobs_14553_side1 
 OriginationDate|YYYY-MM-DD|2018-07-23
