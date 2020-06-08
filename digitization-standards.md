@@ -13,8 +13,8 @@ MiniDisc|24 Bit PCM|Broadcast WAVE| 44.1 kHz sample rate
 Format|Preservation Codec|Preservation Wrapper|Attributes
 ---|---|---|---
 Analog Video Tape|10 bit FFV1 version 3|Matroska (MKV)|Audio should be 24 Bit/48 kHz PCM
-DV Tape Family|DV|DV|DV encoded materials should always be captured natively via Firewire
-Digital8|DV|DV|DV encoded materials should always be captured natively via Firewire
+DV Tape Family|Same as Source (DV or HDV)|Matroska|DV encoded materials should always be captured natively via Firewire
+Digital8|DV|Matroska|DV encoded materials should always be captured natively via Firewire
 Other Digital Video Tape|FFV1 version 3|Matroska (MKV)|Audio should be 24 Bit/48 kHz PCM
 
 
