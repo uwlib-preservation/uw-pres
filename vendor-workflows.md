@@ -1,4 +1,10 @@
-# UW Libraries Media Vendor Workflows
+# UW Libraries Media Reformatting Workflows
+
+### Pre-Digitization Steps
+* [Digital Workflows Checklist](https://goo.gl/forms/tdjzjzLR620z00UR2)
+* Section 108 Rights Research (When applicable)
+  - [Online Form](https://drive.google.com/open?id=1s_xVbNGo2iRcvElfns4HyMztqWp5XdrzErxyLc6dChE)
+  - [Media Center Version](https://github.com/pugetsoundandvision/uw-pres/raw/master/media_rights_search_checklist.docx)
 
 ### Guiding Principles for Preservation Master Files
 * All preservation masters should be accurate and true representations of their source materials, and should be complete digital proxies to the extent that is feasible. They must maintain all essential original characteristics, such as (but not limited to) audio track orientation, aspect ratio, frame rate etc.
