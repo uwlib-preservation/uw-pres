@@ -5,9 +5,10 @@
 * Section 108 Rights Research (When applicable)
   - [Online Form](https://drive.google.com/open?id=1s_xVbNGo2iRcvElfns4HyMztqWp5XdrzErxyLc6dChE)
   - [Media Center Version](https://github.com/pugetsoundandvision/uw-pres/raw/master/media_rights_search_checklist.docx)
-
+  
 ### Guiding Principles for Preservation Master Files
 * All preservation masters should be accurate and true representations of their source materials, and should be complete digital proxies to the extent that is feasible. They must maintain all essential original characteristics, such as (but not limited to) audio track orientation, aspect ratio, frame rate etc.
+* All machines should be calibrated for the best possible capture of each item. This includes azimuth adjustment for audio tapes, and the use of a processing amp for video signals.
 * Any manipulation, such as audio peak normalization or color correction should be applied in the creation of a reproduction master file (or mezzanine) and not applied to the preservation master file.
 
 ### Guiding Principles for Mezzanine/Access Files
