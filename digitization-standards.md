@@ -3,19 +3,19 @@
 #### Audio Formats
 Format|Preservation Codec|Preservation Wrapper|Attributes
 ---|---|---|---
-Analog Audio Tape|24 Bit LPCM|Broadcast WAVE|96kHz Sample rate
-Audio Grooved Media|24 Bit LPCM|Broadcast WAVE|96kHz Sample rate
-Digital Audio Tape|LPCM|Broadcast WAVE|Sample rate/Bit depth same as source
-Audio CDs (CD-DA)|16bit LPCM or 16 bit FLAC|Broadcast WAVE or FLAC + CUE Sheet|44.1 kHz sample rate
-MiniDisc|24 Bit PCM|Broadcast WAVE|48 kHz
+Analog Audio Tape|24 Bit PCM|Broadcast WAVE|96kHz Sample rate
+Audio Grooved Media|24 Bit PCM|Broadcast WAVE|96kHz Sample rate
+Digital Audio Tape|PCM|Broadcast WAVE|Sample rate/Bit depth same as source
+Audio CDs (CD-DA)|16bit PCM or 16 bit FLAC|Broadcast WAVE or FLAC + CUE Sheet|44.1 kHz sample rate
+MiniDisc|24 Bit PCM|Broadcast WAVE| 44.1 kHz sample rate
 
 #### Video Formats
 Format|Preservation Codec|Preservation Wrapper|Attributes
 ---|---|---|---
-Analog Video Tape|10 bit FFV1 version 3|Matroska (MKV)|Audio should be 24 Bit/48 kHz LPCM
+Analog Video Tape|10 bit FFV1 version 3|Matroska (MKV)|Audio should be 24 Bit/48 kHz PCM
 DV Tape Family|DV|DV|DV encoded materials should always be captured natively via Firewire
 Digital8|DV|DV|DV encoded materials should always be captured natively via Firewire
-Other Digital Video Tape|FFV1 version 3|Matroska (MKV)|Audio should be 24 Bit/48 kHz LPCM
+Other Digital Video Tape|FFV1 version 3|Matroska (MKV)|Audio should be 24 Bit/48 kHz PCM
 
 
 #### Film Formats
