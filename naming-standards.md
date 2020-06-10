@@ -12,7 +12,7 @@ For example:
 
 
 ## Instructions:
-* There should be __no__ spaces or special charaters in file names. Only standard letters and numbers should be used, with the exception of dashes and underscores.
+* There should be __no__ spaces or special characters in file names. Only standard letters and numbers should be used, with the exception of dashes and underscores.
 * Underscores must __only__ be used to separate components of the file name as shown above.
 * [MARC Code for collecting institution] will always be  wauar for items housed in UW Special Collections.
 * [collection #-collection name] Collection number and an abbreviated collection name must be included and separated by a ‘-’. The abbreviated name can be as simple as one word.
