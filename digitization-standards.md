@@ -25,6 +25,7 @@ Format|Preservation Codec|Preservation Wrapper|Attributes
 35mm Film|16 bit FFV1|Matroska|4k resolution over scan.
 16mm Film|10 bit FFV1|Matroska|2k resolution over scan.
 8mm Film|10 bit FFV1|Matroska|2k resolution over scan.
+Film Audio|24 Bit PCM|Broadcast WAVE|48 kHz sample rate
 
 ### Additional Links
 * [MDPI FFV1 White Paper](https://mdpi.iu.edu/doc/MDPIwhitepaper.pdf)
