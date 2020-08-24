@@ -23,7 +23,7 @@ Format|Preservation Codec|Preservation Wrapper|Attributes
 ---|---|---|---
 Analog Audio Tape|24 Bit PCM|Broadcast WAVE|96kHz Sample rate
 Audio Grooved Media|24 Bit PCM|Broadcast WAVE|96kHz Sample rate
-Digital Audio Tape|PCM|Broadcast WAVE|Sample rate/Bit depth same as source
+Digital Audio Tape (DAT)|PCM|Broadcast WAVE|Sample rate/Bit depth same as source
 Audio CDs (CD-DA)|16bit PCM or 16 bit FLAC|Broadcast WAVE or FLAC + CUE Sheet|44.1 kHz sample rate
 MiniDisc|24 Bit PCM|Broadcast WAVE| 44.1 kHz sample rate
 
@@ -43,6 +43,7 @@ Format|Preservation Codec|Preservation Wrapper|Attributes
 35mm Film|16 bit FFV1|Matroska|4k resolution over scan.
 16mm Film|10 bit FFV1|Matroska|2k resolution over scan.
 8mm Film|10 bit FFV1|Matroska|2k resolution over scan.
+Film Audio|24 Bit PCM|Broadcast WAVE|48 kHz sample rate
 
 ### Preferred Naming Conventions
 For reformatted materials, UW Libraries prefers file names that are human readable and self descriptive. These names should always provide a clear association between the digital item and its physical source object.
