@@ -5,7 +5,7 @@ Format|Preservation Codec|Preservation Wrapper|Attributes
 ---|---|---|---
 Analog Audio Tape|24 Bit PCM|Broadcast WAVE|96kHz Sample rate
 Audio Grooved Media|24 Bit PCM|Broadcast WAVE|96kHz Sample rate
-Digital Audio Tape|PCM|Broadcast WAVE|Sample rate/Bit depth same as source
+Digital Audio Tape (DAT)|PCM|Broadcast WAVE|Sample rate/Bit depth same as source
 Audio CDs (CD-DA)|16bit PCM or 16 bit FLAC|Broadcast WAVE or FLAC + CUE Sheet|44.1 kHz sample rate
 MiniDisc|24 Bit PCM|Broadcast WAVE| 44.1 kHz sample rate
 
