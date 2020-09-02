@@ -94,10 +94,19 @@ A single ISO disc image file should be created for each DVD. This ISO should be 
 ### Windows Environemnt
 Isobuster:
 
-![Isobuster window example](/resources/isobuster.jpg)
+First you must select which drive you will be capturing from. This can be done via the dropdown in the main window.
+![Isobuster select drive](/resources/isobuster-2.jpg)
+
+Next make adjustments (if desired) to the amount of times Isobuster will attempt to retry sections of the DVD that have read errors. This is under the `Communication` tab in the `Options` menu
+![Isobuster window example](/resources/isobuster-4.jpg)
+
+Three or four retries is a reasonable amount - raising the number of retries too high can result in VERY long processing times
+![Isobuster window example](/resources/isobuster-3.jpg)
+
+Finally, to create the disk image, navigate according to the following image. `File` -> `Extract DVD <image>` -> `User data (*.iso)`. Assign the file a uniqe name, and proceed!
+![Isobuster window capture example](/resources/isobuster.jpg)
 
 #### Derivative Generation
-
 ISO disc image files can be used as inputs for the popular DVD Ripping program [Handbrake](https://handbrake.fr/). To create an access MP4, open you ISO file in Handbrake in the same manner as a DVD.
 
 ## Appendix A
