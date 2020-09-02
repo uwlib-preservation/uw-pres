@@ -87,7 +87,7 @@ A single ISO disc image file should be created for each DVD. This ISO should be 
 
 * Readom
 * DDRescue
-  * Sample command: `ddrescue -d -b 2048 -r1 -v /dev/sr0 mydisk.iso mydisk.log`
+  * Sample command: `ddrescue -d -b 2048 -r4 -v /dev/sr0 mydisk.iso mydisk.log`
  * [Brasero](https://wiki.gnome.org/Apps/Brasero)
 
 
