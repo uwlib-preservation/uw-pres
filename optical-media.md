@@ -81,9 +81,9 @@ Note - some commercial DVDs contain anti-piracy technology that under the DMCA i
 #### Preferred deliverables
 A single ISO disc image file should be created for each DVD. This ISO should be named according to a convention that allows it to be associated with the original item (for example Item_Number.iso).
 
-#### Recommended workflow
+### Recommended workflow
 
-#### Linux Environment (Such as Bit Curator)
+### Linux Environment (Such as Bit Curator)
 
 * Readom
 * DDRescue
@@ -91,7 +91,7 @@ A single ISO disc image file should be created for each DVD. This ISO should be 
  * [Brasero](https://wiki.gnome.org/Apps/Brasero)
 
 
-#### Windows Environemnt
+### Windows Environemnt
 Isobuster:
 
 ![Isobuster window example](/resources/isobuster.jpg)
@@ -100,7 +100,7 @@ Isobuster:
 
 ISO disc image files can be used as inputs for the popular DVD Ripping program [Handbrake](https://handbrake.fr/). To create an access MP4, open you ISO file in Handbrake in the same manner as a DVD.
 
-#### Appendix A
+## Appendix A
 There are several methods to apply a de-emphasis filter. If the CD is still available, ripping it via the Apple iTunes software will automatically create a de-emphasized version. If de-emphasis needs to be applied to an already existing file, the following are two options.
 
 __FFmpeg__
@@ -128,7 +128,7 @@ The file can then be edited in audacity and the new curve applied via the 'Equal
 
 Curve was created using the information in [this paper](https://web.archive.org/web/20170704181101/https://audioxpress.com/assets/upload/files/galo3025.pdf) by a user in the [Audacity Forums](https://web.archive.org/web/20200402221556/https://forum.audacityteam.org/viewtopic.php?t=9141).
 
-### Appendix B
+## Appendix B
 
 [Yale Alice Prael Paper](http://campuspress.yale.edu/borndigital/2016/12/20/to-image-or-copy-the-compact-disc-digital-audio-dilemma/)
 
