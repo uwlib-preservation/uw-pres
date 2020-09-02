@@ -76,6 +76,8 @@ To accurately preserve both the contents of the optical disk, as well as the int
 
 To capture the content of a video DVD, an ISO disc image file should be created (as opposed to loading the disc and then copying the VOB video files off). This allows for better handling of any errors in the disc, as well as facilitates both easier playback and derivative generation. If an ISO image of a DVD is played back using software such as VLC, not only the video but things like the menu will be viewable in a close approximation of their original format. Additionally ISO images can be used as inputs for tools such as Handbrake to create access MP4s as desired.
 
+Note - some commercial DVDs contain anti-piracy technology that under the DMCA is illegal to circumvent. There are [limited exceptions](https://www.govinfo.gov/content/pkg/FR-2018-10-26/pdf/2018-23241.pdf) to this rule - before attempting to image any commercial DVDs please confirm the legal issues surrounding your project.
+
 #### Preferred deliverables
 A single ISO disc image file should be created for each DVD. This ISO should be named according to a convention that allows it to be associated with the original item (for example Item_Number.iso).
 
