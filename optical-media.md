@@ -109,7 +109,7 @@ Finally, to create the disk image, navigate according to the following image. `F
 
 ![Isobuster window capture example](/resources/isobuster.jpg)
 
-#### Derivative Generation
+### Derivative Generation
 ISO disc image files can be used as inputs for the popular DVD Ripping program [Handbrake](https://handbrake.fr/). To create an access MP4, open you ISO file in Handbrake in the same manner as a DVD.
 
 ## Appendix A
