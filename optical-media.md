@@ -33,7 +33,7 @@ Audio files should be migrated to a lossless format that preserves the original 
 
 #### Recommended workflow
 
-The program [Exact Audio Copy](http://www.exactaudiocopy.de/) (EAC) is highly recommended for CD-DA migration. EAC is a Windows program that is free for non-commercial use. While it is native in the Windows system, it can be reliably run on both Linux and macOS via the [WINE Compatibility Layer](https://www.winehq.org/).
+The program [Exact Audio Copy](http://www.exactaudiocopy.de/) (EAC) is highly recommended for CD-DA migration. EAC is a Windows program that is free for non-commercial use. While it is native in the Windows system, it can be reliably run on both Linux and macOS via the [WINE Compatibility Layer](https://www.winehq.org/). ** Currently WINE does not work well with macOS 10.15, and EAC is unable to be used. 
 
 Upon first running EAC, it will need to be configured for use with your CD Drive. When you launch it, it will offer options to guide you through the process. A good guide for this process can be found through the [Hydrogen Audio Wiki](https://wiki.hydrogenaud.io/index.php?title=EAC_Configuration_Wizard).
 
