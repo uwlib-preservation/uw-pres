@@ -10,4 +10,4 @@ __Notes__:
 * `-report` will cause FFmpeg to write a lot to the current directory. It is suggested to run this command from within the project directory.
 * `IN%08d` should be changed to reflect the number of digits used in incrementing file numbering. This example uses eight digits.
 * FRAMERATE must be consistent across both usages. Can be 18, 23.98, 24 or others as appropriate. __NOTE:__ Using a framerate of 23.98 has been found to make MediaInfo report an incorrect number of total frames in the output MKV, so comparison against number of DPX files may be innacurate using MediaInfo. 
-* -f md5 -pix_fmt gbrp10le -r FRAMEMATE OUT.md5 can be added to command to simultaneously generate an MD5 file of original frames to confirm losslessness.
+* -f md5 -pix_fmt gbrp10le -r FRAMEMATE OUT.md5 can be added to command to simultaneously generate an MD5 file of original frames to confirm losslessness. For 16 bit RGB sourced files, the addition of `-pix_fmt rgb48be` is necessary for this command to confirm reversibility.
